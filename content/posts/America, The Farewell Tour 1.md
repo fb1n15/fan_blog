@@ -9,6 +9,9 @@ crazy
 
 ![big data system](./images/big_data_system.png)
 
+![white](./images/images.png)
+
+
 - **Metadata**:
 	-   **Author**: [[Chris Hedges]]
 	-   **Year**: 2018
