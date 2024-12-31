@@ -7,7 +7,7 @@ tags:
 ---
 crazy
 
-!![Image Description](/images/big_data_system.png)
+![[big_data_system.png]]
 
 - **Metadata**:
 	-   **Author**: [[Chris Hedges]]
